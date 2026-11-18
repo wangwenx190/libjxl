@@ -24,3 +24,4 @@ tools/conformance/__pycache__
 
 # macOS Finder state files
 .DS_Store
+!/buildtest.bat
